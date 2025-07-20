@@ -1,0 +1,14 @@
+{
+  "accounts": [
+    {
+      "id": "123448481234",
+      "name": "Production",
+      "color": "#ffcccc"
+    },
+    {
+      "id": "432125294321",
+      "name": "Development",
+      "color": "#ccffcc"
+    }
+  ]
+}
